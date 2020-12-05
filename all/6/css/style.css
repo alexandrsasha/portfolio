@@ -1,0 +1,175 @@
+.header a,
+a:hover {
+    color: #FFDD00;
+    text-decoration: none;
+}
+
+.header h1 {
+    letter-spacing: 15px;
+    font-size: 300%;
+    color: #ffbe00;
+}
+
+.header p {
+    color: white !important;
+    font-size: 90%;
+    letter-spacing: 3px;
+
+}
+
+.nav-pills > li.active > ,
+.,
+nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover {
+    color: #3AE2CE;
+    background-color: #3AE2CE;
+
+}
+
+.nav-pills > li > a {
+    color: #fff;
+
+
+}
+
+.nav-pills > li > a:hover {
+    background-color: #306FCD;
+
+
+}
+
+.navbar-inverse {
+
+    padding: 1%;
+}
+
+@media(max-width: 767px) {
+    .nav-pills > li {
+        float: none;
+
+    }
+
+    .nav-pills {
+
+        text-align: center;
+    }
+    .header h1 {
+        letter-spacing: 5px;
+        font-size: 40px;
+    }
+    .header {
+        text-align: center;
+
+    }
+
+
+}
+
+.clear {
+    clear: both;
+    width: 63px;
+
+}
+
+.wrapper {
+    min-height: 100%;
+
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.panel {
+    border: none;
+
+}
+
+.panel-body {
+    background-color: #f9f9f9;
+
+}
+
+.panel-info > .panel-heading {
+    background-color: #f0ad4e;
+    color: white;
+    border-color: transparent;
+}
+
+.sidebar-header {
+    font-size: 120%;
+    letter-spacing: 2px;
+
+}
+
+footer {
+    color: #666;
+    background-color: #222;
+    padding: 17px 0 18px 0;
+    border-top: 1px solid #000;
+    height: 80px;
+
+}
+
+footer a {
+    color: #999;
+
+}
+
+footer a:hover {
+    color:
+}
+
+.films_block img {
+    margin-bottom: 5%;
+    border-radius: 5px;
+    border: solid 5px #dad7d5;
+    width: 100%;
+
+
+}
+
+.films_block {
+    text-align: center;
+
+}
+textarea.form-control{
+    height: 200px;
+}
+
+.films_label {}
+
+.margin-8 {
+    margin-top: 8%;
+}
+
+.form-control {
+
+    font-size: 14px;
+
+}
+
+.input-lg {
+    font-size: 14px;
+
+}
+
+.form-control {
+    border-radius: 2px;
+
+}
+.info-block{
+    font-size: 120%
+        
+}
+.info-block.badge{
+    font-size: 80%;
+    
+}
+.info-block span{
+  margin-right: 3%;  
+}
+.table tbody>tr>td.vert-align{
+    vertical-align: middle;
+}
